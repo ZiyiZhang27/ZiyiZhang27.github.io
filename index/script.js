@@ -38,7 +38,7 @@ var get = document.querySelector.bind(document),
 	context,
 	surfaces,
 	palleteNum = 0,
-	palleteFirst = ['ff9900', '424242', 'e9e9e9', 'bcbcbc', '3299bb'],
+	palleteFirst = ['333', '666', '999', 'ccc', 'fff'],
 	palletes = [
 		['0cf', '0fc', 'ff0', 'f0c', 'c0f']
 		['000', 'ff0', 'f0f', '0ff', 'fff'],
