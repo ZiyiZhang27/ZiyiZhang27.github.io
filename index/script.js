@@ -40,7 +40,7 @@ var get = document.querySelector.bind(document),
 	palleteNum = 0,
 	palleteFirst = ['333', '666', '999', 'ccc', 'fff'],
 	palletes = [
-		['0cf', '0fc', 'ff0', 'f0c', 'c0f']
+		['0cf', '0fc', 'ff0', 'f0c', 'c0f'],
 		['000', 'ff0', 'f0f', '0ff', 'fff'],
 		['000', 'fff', '000', 'fff', '000'],
 		['333', '666', '999', 'ccc', 'fff'],
