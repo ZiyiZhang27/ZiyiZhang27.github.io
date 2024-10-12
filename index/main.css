@@ -177,10 +177,9 @@ hr.sep{
 body{
   margin-top:20px;
   margin-bottom:8px;
-  margin-right:500px;
-  margin-left:500px;
-
-  -webkit-text-size-adjust: 100% ;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-text-size-adjust: 100%;
   font-size: 15px;
   color: rgb(15,2,0);
   background: rgb(245,245,249); 
